@@ -21,7 +21,7 @@ const colors = {
 
   border: '#C9D7E3',
   borderDark: '#37546D',
-
+  disabled: '#DDDDDD',
   icon: '#37546D',
   iconDark: '#293F51',
 }
